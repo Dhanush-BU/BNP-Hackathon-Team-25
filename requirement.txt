@@ -1,0 +1,12 @@
+streamlit
+finnhub-python
+requests
+pandas
+plotly
+numpy
+transformers
+torch
+yfinance
+matplotlib
+wordcloud
+nltk
